@@ -4,5 +4,6 @@ Module Program ' Declares the Program module.
         Console.WriteLine("Hello World!") ' Outputs "Hello World!" to the console.
         Console.WriteLine("+36  : ISWORKING: YES") ' Outputs "+5" to the console.
         Console.WriteLine("This is a test") ' Outputs "This is a test" to the console.
+        Console.WriteLine("This is another test") ' Outputs "This is another test" to the console.
     End Sub ' Ends the Main subroutine.
 End Module ' Ends the Program module.
